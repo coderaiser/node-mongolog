@@ -16,6 +16,8 @@ Mongolog
 }
 ```
 
+`Mongolog` data could be read from command line by [mongolog-cli](https://github.com/coderaiser/node-mongolog-cli "mongolog-cli").
+
 ## Install
 
 `npm i mongolog --save`
