@@ -49,7 +49,7 @@ MongoClient.connect(url, function(error, db) {
         http.createServer(app)
             .listen(port, ip);
         
-        console.log('url:', ip + ':' + port);
+        console.log('url: %s:%s', ip, port);
     }
 });
 ```
