@@ -54,6 +54,10 @@ MongoClient.connect(url, function(error, db) {
 });
 ```
 
+## See also
+
+- [koa-mongolog](https://github.com/coderaiser/koa-mongolog "Koa-mongolog") `koa` middleware.
+
 ## License
 
 MIT
